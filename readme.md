@@ -17,7 +17,7 @@ pip install pandas notebook
 jupyter notebook
 ```
 
-Abra `analise_vendas.ipynb` e execute as células em ordem. Mantenha a pasta `data/` no mesmo lugar, porque a leitura usa um caminho relativo.
+Abra `analise_vendas.ipynb` e execute as células em ordem. Os dados não estão no repositório: coloque `vendas.csv` em `data/`, porque a leitura usa um caminho relativo.
 
 Referência de estudo: Rocketseat.
 
